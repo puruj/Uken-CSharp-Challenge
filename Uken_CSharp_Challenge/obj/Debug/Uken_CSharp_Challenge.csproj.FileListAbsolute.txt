@@ -1,0 +1,7 @@
+C:\Users\Puru\source\repos\Uken_CSharp_Challenge\Uken_CSharp_Challenge\bin\Debug\Uken_CSharp_Challenge.exe.config
+C:\Users\Puru\source\repos\Uken_CSharp_Challenge\Uken_CSharp_Challenge\bin\Debug\Uken_CSharp_Challenge.exe
+C:\Users\Puru\source\repos\Uken_CSharp_Challenge\Uken_CSharp_Challenge\bin\Debug\Uken_CSharp_Challenge.pdb
+C:\Users\Puru\source\repos\Uken_CSharp_Challenge\Uken_CSharp_Challenge\obj\Debug\Uken_CSharp_Challenge.csprojAssemblyReference.cache
+C:\Users\Puru\source\repos\Uken_CSharp_Challenge\Uken_CSharp_Challenge\obj\Debug\Uken_CSharp_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Puru\source\repos\Uken_CSharp_Challenge\Uken_CSharp_Challenge\obj\Debug\Uken_CSharp_Challenge.exe
+C:\Users\Puru\source\repos\Uken_CSharp_Challenge\Uken_CSharp_Challenge\obj\Debug\Uken_CSharp_Challenge.pdb
